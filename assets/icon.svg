@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480">
+	<style>
+		:root {
+			color-scheme: dark light;
+		}
+
+		polygon {
+			stroke: black;
+			stroke-width: 30;
+			stroke-linejoin: round;
+		}
+	</style>
+
+	<polygon points="240 240, -200 300, 0 -200" fill="blue" />
+	<polygon points="240 240, 0 -200, 400 -200" fill="yellow" />
+	<polygon points="240 240, 400 -200, 700 300" fill="cyan" />
+	<polygon points="240 240, 700 300, 600 800" fill="magenta" />
+	<polygon points="240 240, 600 800, 200 800" fill="red" />
+	<polygon points="240 240, 200 800, -200 300" fill="lime" />
+</svg>
